@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/grid-design-assignment2-React/static/css/main.33f7d3ab.css",
+    "main.css": "/grid-design-assignment2-React/static/css/main.66fb734e.css",
     "main.js": "/grid-design-assignment2-React/static/js/main.01b3aa37.js",
     "static/js/787.a2ff2d1c.chunk.js": "/grid-design-assignment2-React/static/js/787.a2ff2d1c.chunk.js",
     "static/media/logo.svg": "/grid-design-assignment2-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/grid-design-assignment2-React/index.html",
-    "main.33f7d3ab.css.map": "/grid-design-assignment2-React/static/css/main.33f7d3ab.css.map",
+    "main.66fb734e.css.map": "/grid-design-assignment2-React/static/css/main.66fb734e.css.map",
     "main.01b3aa37.js.map": "/grid-design-assignment2-React/static/js/main.01b3aa37.js.map",
     "787.a2ff2d1c.chunk.js.map": "/grid-design-assignment2-React/static/js/787.a2ff2d1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33f7d3ab.css",
+    "static/css/main.66fb734e.css",
     "static/js/main.01b3aa37.js"
   ]
 }
